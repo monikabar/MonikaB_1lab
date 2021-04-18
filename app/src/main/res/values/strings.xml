@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MonikaB_1lab_HelloWord_2021</string>
     <string name="btn_do_smth">Paspausk mane</string>
+    <string name="changed_label_caption">Text was changed!</string>
 </resources>
